@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="424" height="174" viewBox="0 0 424 174">
+  <defs>
+    <filter id="Rectangle_3" x="0" y="0" width="424" height="174" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#fc644f" flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_399" data-name="Group 399" transform="translate(-205 -1026)">
+    <g transform="matrix(1, 0, 0, 1, 205, 1026)" filter="url(#Rectangle_3)">
+      <g id="Rectangle_3-2" data-name="Rectangle 3" transform="translate(12 9)" fill="#fff" stroke="#fc644f" stroke-width="3">
+        <rect width="400" height="150" rx="5" stroke="none"/>
+        <rect x="-1.5" y="-1.5" width="403" height="153" rx="6.5" fill="none"/>
+      </g>
+    </g>
+    <text id="_75_000" data-name="₹ 75,000" transform="translate(399.037 1104.776)" font-size="40" font-family="NirmalaUI, Nirmala UI"><tspan x="0" y="0">₹ 75,000</tspan></text>
+    <text id="Average_Investment" data-name="Average Investment" transform="translate(347.537 1150.552)" font-size="25" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Average Investment</tspan></text>
+    <g id="profits" transform="translate(246.725 1069.103)">
+      <g id="Group_403" data-name="Group 403" transform="translate(41.34 23.22)">
+        <g id="Group_402" data-name="Group 402">
+          <path id="Path_1460" data-name="Path 1460" d="M289.361,161.008V128.6a1.73,1.73,0,0,0-1.83-1.7H280.45a1.778,1.778,0,0,0-1.885,1.7v29.241a17.08,17.08,0,0,0-3.477.457V138.153a1.791,1.791,0,0,0-1.866-1.738H266.14a1.763,1.763,0,0,0-1.848,1.738v27.319a17.961,17.961,0,0,0-3.33,10.5,18.143,18.143,0,1,0,28.4-14.968Zm-7.136-30.448H285.7v28.509a16.307,16.307,0,0,0-3.477-.951Zm-14.273,9.515h3.477v19.488a18.632,18.632,0,0,0-3.477,2.086Zm23.623,43.275a14.476,14.476,0,1,1-17.987-20.75,1.738,1.738,0,0,0,.6-.238,14.2,14.2,0,0,1,4.941-.878c.384,0,.75.018,1.135.055h.018a14.137,14.137,0,0,1,6.221,1.976A14.471,14.471,0,0,1,291.575,183.35Z" transform="translate(-260.962 -126.9)"/>
+        </g>
+      </g>
+      <g id="Group_405" data-name="Group 405" transform="translate(53.563 59.579)">
+        <g id="Group_404" data-name="Group 404">
+          <path id="Path_1461" data-name="Path 1461" d="M333.709,336.835A2.315,2.315,0,1,1,336,334.511a1.835,1.835,0,0,0,1.83,1.83,1.855,1.855,0,0,0,1.866-1.83,5.977,5.977,0,0,0-3.788-5.563V327.43a1.83,1.83,0,0,0-3.66,0v1.317a5.968,5.968,0,0,0-4.282,7.264,5.892,5.892,0,0,0,5.727,4.465,2.3,2.3,0,1,1-2.306,2.287,1.835,1.835,0,0,0-1.83-1.83,1.777,1.777,0,0,0-1.793,1.812v.018a5.991,5.991,0,0,0,4.465,5.764v.823a1.83,1.83,0,0,0,3.66,0v-1.006a5.958,5.958,0,0,0-2.177-11.51Z" transform="translate(-327.761 -325.6)"/>
+        </g>
+      </g>
+      <g id="Group_407" data-name="Group 407" transform="translate(15.942 47.374)">
+        <g id="Group_406" data-name="Group 406">
+          <path id="Path_1462" data-name="Path 1462" d="M131.129,258.9h-7.136a1.835,1.835,0,0,0-1.83,1.83v28.728a1.835,1.835,0,0,0,1.83,1.83h7.136a1.835,1.835,0,0,0,1.83-1.83V260.73A1.835,1.835,0,0,0,131.129,258.9Zm-1.83,28.911h-3.477V262.56H129.3Z" transform="translate(-122.163 -258.9)"/>
+        </g>
+      </g>
+      <g id="Group_409" data-name="Group 409" transform="translate(30.397 43.166)">
+        <g id="Group_408" data-name="Group 408">
+          <path id="Path_1463" data-name="Path 1463" d="M210.129,235.9h-7.136a1.835,1.835,0,0,0-1.83,1.83v33.12a1.835,1.835,0,0,0,1.83,1.83h7.136a1.835,1.835,0,0,0,1.83-1.83V237.73A1.835,1.835,0,0,0,210.129,235.9Zm-1.83,33.12h-3.477V239.56H208.3Z" transform="translate(-201.163 -235.9)"/>
+        </g>
+      </g>
+      <g id="Group_411" data-name="Group 411" transform="translate(1.486 63.111)">
+        <g id="Group_410" data-name="Group 410" transform="translate(0)">
+          <path id="Path_1464" data-name="Path 1464" d="M52.129,344.9H44.993a1.835,1.835,0,0,0-1.83,1.83v12.992a1.835,1.835,0,0,0,1.83,1.83h7.136a1.835,1.835,0,0,0,1.83-1.83V346.73A1.835,1.835,0,0,0,52.129,344.9ZM50.3,358.075H46.823V348.56H50.3Z" transform="translate(-43.163 -344.9)"/>
+        </g>
+      </g>
+      <g id="Group_413" data-name="Group 413">
+        <g id="Group_412" data-name="Group 412">
+          <path id="Path_1465" data-name="Path 1465" d="M104.5,0,91.987.018a1.83,1.83,0,1,0-.037,3.66h.037l8.106-.018L80.239,23.44,73.3,16.56a2.012,2.012,0,0,0-2.6,0L35.573,51.693a1.825,1.825,0,0,0,2.6,2.562L72.023,20.4l6.935,6.99a1.832,1.832,0,0,0,1.3.586,1.946,1.946,0,0,0,1.3-.586L102.673,6.258l-.018,8.143a1.831,1.831,0,1,0,3.66,0l.018-12.553A1.851,1.851,0,0,0,104.5,0Z" transform="translate(-35.038)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

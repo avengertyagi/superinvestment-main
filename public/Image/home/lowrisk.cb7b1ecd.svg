@@ -1,0 +1,32 @@
+<svg width="93" height="82" viewBox="0 0 93 82" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="17.0103" y="1" width="63.8341" height="80" rx="8" fill="url(#paint0_linear)" stroke="#111111" stroke-linecap="round"/>
+<line opacity="0.2" x1="48.4604" y1="8.68201" x2="72.6072" y2="8.68201" stroke="#111111" stroke-linecap="round"/>
+<line opacity="0.2" x1="48.4604" y1="14.1362" x2="72.6072" y2="14.1362" stroke="#111111" stroke-linecap="round"/>
+<line opacity="0.2" x1="48.4604" y1="19.5908" x2="72.6072" y2="19.5908" stroke="#111111" stroke-linecap="round"/>
+<line opacity="0.2" x1="48.4604" y1="25.0454" x2="72.6072" y2="25.0454" stroke="#111111" stroke-linecap="round"/>
+<line opacity="0.2" x1="48.4604" y1="30.5" x2="72.6072" y2="30.5" stroke="#111111" stroke-linecap="round"/>
+<line opacity="0.2" x1="25.7312" y1="35.9546" x2="73.0904" y2="35.9546" stroke="#111111" stroke-linecap="round"/>
+<line opacity="0.2" x1="25.7312" y1="41.4092" x2="73.0904" y2="41.4092" stroke="#111111" stroke-linecap="round"/>
+<line opacity="0.2" x1="25.7312" y1="46.8638" x2="73.0904" y2="46.8638" stroke="#111111" stroke-linecap="round"/>
+<line opacity="0.2" x1="25.7312" y1="52.318" x2="73.0904" y2="52.318" stroke="#111111" stroke-linecap="round"/>
+<line opacity="0.2" x1="25.7312" y1="57.7729" x2="73.0904" y2="57.773" stroke="#111111" stroke-linecap="round"/>
+<line opacity="0.2" x1="25.7312" y1="63.2271" x2="73.0904" y2="63.2271" stroke="#111111" stroke-linecap="round"/>
+<line opacity="0.2" x1="25.7312" y1="68.682" x2="73.0904" y2="68.682" stroke="#111111" stroke-linecap="round"/>
+<line opacity="0.2" x1="25.7312" y1="74.1362" x2="73.0904" y2="74.1362" stroke="#111111" stroke-linecap="round"/>
+<rect x="1" y="9.6665" width="32" height="21.3333" rx="4" fill="#FBE9D2" stroke="#111111" stroke-linecap="round"/>
+<line opacity="0.5" x1="16.1667" y1="14.5002" x2="27.8334" y2="14.5002" stroke="#111111" stroke-linecap="round"/>
+<line opacity="0.5" x1="16.1667" y1="18.5" x2="27.8334" y2="18.5" stroke="#111111" stroke-linecap="round"/>
+<line opacity="0.5" x1="6.16675" y1="26.4998" x2="27.8334" y2="26.4998" stroke="#111111" stroke-linecap="round"/>
+<line opacity="0.5" x1="6.16675" y1="22.5" x2="27.8334" y2="22.5" stroke="#111111" stroke-linecap="round"/>
+<rect x="5.35229" y="12.394" width="8" height="8" rx="2" fill="white"/>
+<rect x="73.8892" y="53" width="14.2222" height="17.1613" rx="7.11111" fill="white" stroke="#111111" stroke-linecap="round"/>
+<rect x="70.3335" y="63.8387" width="21.3333" height="17.1613" rx="4" fill="#FBE9D2" stroke="#111111" stroke-linecap="round"/>
+<circle cx="80.9999" cy="73.0002" r="2.66667" fill="white"/>
+<rect x="79.6665" y="74.3765" width="2.66667" height="4" rx="1.33333" fill="white"/>
+<defs>
+<linearGradient id="paint0_linear" x1="48.9273" y1="1" x2="48.9273" y2="81" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FBE9D2" stop-opacity="0.5"/>
+<stop offset="1" stop-color="#FBE9D2" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>

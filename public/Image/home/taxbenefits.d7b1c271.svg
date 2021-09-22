@@ -1,0 +1,30 @@
+<svg width="71" height="81" viewBox="0 0 71 81" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="47.3082" y="64.0538" width="11.2975" height="16.9462" rx="5.64875" fill="#DDEBFD"/>
+<rect x="12.0035" y="64.0538" width="11.2975" height="16.9462" rx="5.64875" fill="#DDEBFD"/>
+<ellipse rx="8.47312" ry="6.35484" transform="matrix(0.707107 -0.707107 -0.707107 -0.707107 60.1037 27.4434)" fill="#DDEBFD"/>
+<ellipse rx="8.47312" ry="6.35484" transform="matrix(0.707107 0.707107 0.707107 -0.707107 10.485 27.4225)" fill="#DDEBFD"/>
+<circle cx="35.8048" cy="46.5283" r="31.195" fill="url(#paint0_linear)" stroke="#111111" stroke-linecap="round"/>
+<ellipse rx="11.2975" ry="8.47312" transform="matrix(1 0 0 -1 36.0108 56.2868)" fill="url(#paint1_linear)" stroke="#111111" stroke-linecap="round"/>
+<circle cx="31.4656" cy="55.069" r="1.50943" fill="#111111"/>
+<circle cx="22.595" cy="37.9283" r="2.82437" fill="#111111"/>
+<circle cx="40.5223" cy="55.069" r="1.50943" fill="#111111"/>
+<circle cx="49.4265" cy="37.9283" r="2.82437" fill="#111111"/>
+<circle cx="36.1005" cy="17.1006" r="16.1006" fill="#DDEBFD" stroke="#111111" stroke-linecap="round"/>
+<g clip-path="url(#clip0)">
+<path d="M39.2773 14.4547H37.7037C37.6138 13.5873 37.1461 12.7818 36.4614 12.2862H39.2773C39.4477 12.2862 39.5871 12.1468 39.5871 11.9764C39.5871 11.806 39.4477 11.6666 39.2773 11.6666H32.7224C32.552 11.6666 32.4126 11.806 32.4126 11.9764C32.4126 12.1468 32.552 12.2862 32.7224 12.2862H34.5997C35.8759 12.2862 36.9292 13.2465 37.081 14.4547H32.7224C32.552 14.4547 32.4126 14.5941 32.4126 14.7644C32.4126 14.9348 32.552 15.0742 32.7224 15.0742H37.081C36.9261 16.3288 35.8605 17.2706 34.5997 17.2737H32.7255C32.552 17.2768 32.4126 17.4193 32.4157 17.5927C32.4157 17.6764 32.4529 17.7569 32.5117 17.8158L37.1987 22.2488C37.3226 22.3665 37.5178 22.3603 37.6355 22.2364C37.7532 22.1094 37.747 21.9142 37.6231 21.7934L33.4999 17.8932H34.5966C36.2136 17.8932 37.5488 16.6541 37.7037 15.0742H39.2773C39.4477 15.0742 39.5871 14.9348 39.5871 14.7644C39.5871 14.5941 39.4477 14.4547 39.2773 14.4547Z" fill="#111111"/>
+</g>
+<line x1="25.7294" y1="31.7045" x2="45.8803" y2="31.7045" stroke="#B3BED6" stroke-width="4" stroke-linecap="round"/>
+<defs>
+<linearGradient id="paint0_linear" x1="35.8048" y1="15.3334" x2="35.8048" y2="77.7233" gradientUnits="userSpaceOnUse">
+<stop stop-color="#DDEBFD"/>
+<stop offset="1" stop-color="white"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="11.2975" y1="0" x2="11.2975" y2="16.9462" gradientUnits="userSpaceOnUse">
+<stop stop-color="#DDEBFD"/>
+<stop offset="1" stop-color="#DDEBFD" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="clip0">
+<rect x="30.6665" y="11.6666" width="10.6667" height="10.6667" fill="white"/>
+</clipPath>
+</defs>
+</svg>

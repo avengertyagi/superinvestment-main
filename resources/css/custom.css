@@ -1,0 +1,245 @@
+h1,h2,h3,h4,h5,h6{
+    font-family: Poppins,sans-serif!important;
+}
+body{
+    font-family: Inter,sans-serif!important;
+}
+
+.bg-orangemix{
+    background-color:#fc644f;
+}
+
+.border-orangemix{
+    border-color: #fc644f;
+}
+
+.bg-superinvestgray{
+    background-color:#f6f6f6;
+}
+
+.text-orangemix{
+    color:#fc644f;
+}
+
+.triger::before{
+    content:"\f068";
+    font-family: 'PhpDebugbarFontAwesome';
+}
+
+.w-53{
+    width:52.3%;
+}
+
+.w-68{
+    width:68.3%;
+}
+
+.box-sb{
+    box-shadow:0px 3px 9px 0px #dcdcdc;
+}
+
+.buletdot::before{
+    content:"\f111";
+    font-family: 'PhpDebugbarFontAwesome';
+    font-size: 5px;
+}
+
+.breadlink:after{
+    content:"\f105";
+    font-family: 'PhpDebugbarFontAwesome';
+    font-size:15px;
+}
+
+.splide__arrows{
+    display: none;
+}
+
+[type='checkbox']:focus, [type='radio']:focus{
+    --tw-ring-color:transparent;
+}
+
+.xxs{
+    font-size:0.66rem;
+}
+
+.menu:hover{
+    border-bottom: 2px solid #fc644f;
+    font-size: 1.02rem;
+}
+
+
+#progressbar {
+    margin-bottom: 30px;
+    overflow: hidden;
+    color: rgb(63, 63, 63);
+}
+
+#progressbar2 {
+    margin-bottom: 30px;
+    overflow: hidden;
+    color: lightgrey;
+}
+
+#progressbar #document:before {
+    font-family: FontAwesome;
+    content: "\f00c";
+    margin: 0 auto;
+}
+
+#progressbar #esign:before {
+    font-family: FontAwesome;
+    content: "\f00c";
+    margin: 0 auto;
+}
+
+#progressbar #bankaccount:before {
+    font-family: FontAwesome;
+    content: "\f00c";
+    margin: 0 auto;
+}
+
+#progressbar #other:before {
+    font-family: FontAwesome;
+    content: "\f00c";
+    margin: 0 auto;
+}
+
+#progressbar .active {
+    color: #fc644f;
+}
+
+#progressbar2 .active {
+    color: #fc644f;
+}
+
+.razorpay-payment-button{
+    display: none;
+}
+
+#progressbar li {
+    list-style-type: none;
+    font-size: 15px;
+    width: 25%;
+    float: left;
+    position: relative;
+    font-weight: 400;
+    text-align:center;
+    width: fit-content;
+}
+
+#progressbar2 li p{
+    content: "\f068";
+}
+
+#progressbar2 li {
+    list-style-type: none;
+    font-size: 15px;
+    width: 25%;
+    float: left;
+    position: relative;
+    font-weight: 400;
+    width: auto;
+}
+
+#progressbar li:before {
+    width: 30px;
+    height: 30px;
+    line-height: 20px;
+    display: block;
+    font-size: 15px;
+    color: #ffffff;
+    border:2px solid #797979;
+    border-radius: 50%;
+    padding: 0.2rem;
+    background-color: #fff;
+}
+
+#progressbar2 li:after {
+    content: '';
+    width: 100%;
+    height: 2px;
+    background: lightgray;
+    position: absolute;
+    left: 0;
+    top: 15px;
+    z-index: -1;
+}
+
+#progressbar li.active:before{
+    background: #fc644f;
+    border:2px solid #fc644f;
+}
+
+#progressbar2 li.active:after {
+    background: #fc644f;
+}
+
+
+@media only screen and (min-width: 760px) {
+    .text_2_5rem{
+        font-size:2.5rem;
+    }
+    .text-2x1{
+        font-size:2.6rem; line-height:3.5rem;
+    }
+    .line-5rem{
+        line-height:5rem;
+    }
+}
+
+@media only screen and (max-width: 760px) {
+    .w-18rem{
+        width: 18rem;
+    }
+    .p-mobilebanner{
+        padding-top: 7rem;
+        padding-bottom: 12rem;
+    }
+}
+
+
+.leading-h1sm {
+    line-height: 2.5rem;
+}
+
+.splide__pagination__page.is-active{
+    transform: scale(1.6)!important;
+    background: #fc644f!important;
+}
+
+.circular-chart {
+    display: block;
+    margin: 10px auto;
+    max-width: 80%;
+    max-height: 250px;
+  }
+  
+  .circle-bg {
+    fill: none;
+    stroke: #dcdcdc;
+    stroke-width: 2.7;
+  }
+  
+  .circle {
+    fill: none;
+    stroke-width: 1.3;
+    stroke-linecap: round;
+    animation: progress 1s ease-out forwards;
+  }
+  
+  @keyframes progress {
+    0% {
+      stroke-dasharray: 0 100;
+    }
+  }
+  
+  .circular-chart.orangemix .circle {
+    stroke: #fc644f;
+  }
+  
+  .percentage {
+    fill: #000;
+    font-family: sans-serif;
+    font-size: 0.5em;
+    text-anchor: middle;
+  }

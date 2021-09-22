@@ -1,0 +1,4 @@
+<svg baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="300" height="100">
+  <path fill="#ccc" d="M0 0h300v100H0z"/>
+  <text x="298" y="98" font-size="12" text-anchor="end">300×100</text>
+</svg>
